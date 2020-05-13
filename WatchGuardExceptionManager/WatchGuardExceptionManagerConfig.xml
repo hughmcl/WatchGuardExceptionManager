@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <myDBSettings>
+    <myMySQLDBSettings>
+      <DbHost>10.101.16.121</DbHost>
+      <DbName>WatchGuardExceptions</DbName>
+      <DbUser>watchguardUser</DbUser>
+      <DbPort>3306</DbPort>
+      <DbPassword>vpiPkYqMARk=,5c7KGnqrW3o=,lvEQlB60q6+YE24XCvwfkQ==</DbPassword>
+    </myMySQLDBSettings>
+  </myDBSettings>
+  <myADSettings>
+    <BindUsername>watchguard</BindUsername>
+    <BindPassword>qD6CP3ddnOA=,aKQ2vvXzzSQ=,lzC/u7z//RHvlrG2j946FA==</BindPassword>
+    <ADDomain>kajeet.local</ADDomain>
+    <ADServerPrimary>10.101.16.53</ADServerPrimary>
+    <ADServerSecondary>172.30.20.28</ADServerSecondary>
+    <ADPort>389</ADPort>
+    <ADUserBase>dc=kajeet,dc=local</ADUserBase>
+  </myADSettings>
+</ApplicationSettings>
